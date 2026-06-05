@@ -1,0 +1,4 @@
+git clone https://github.com/Lololoshka2008YT/DEMOEX или DEMOEX.git
+python -m venv .venv
+выбирай интерпритатор который .venv
+pip install pyside6 pandas openpyxl psycopg2 в (.venv) PS C:\ПАПКА
